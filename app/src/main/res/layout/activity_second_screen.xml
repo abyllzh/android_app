@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Second_Screen">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="30dp"
+
+        android:text="Hi everyone! My name is Abylay. I am from Kazakhstan. I study in IITU. My group is SIS-2109 and my ID is 30445. It is my home task for Mr. Hari's discipline. Next informations are not true. Born in a small town, I navigated life's twists and turns with unwavering determination. From childhood dreams of exploration to academic pursuits, each step shaped my journey. As I matured, challenges became opportunities for growth, instilling resilience. A passion for literature led to a career in writing, where words became my canvas. Amidst life's chaos, family remained my anchor, their love a constant source of strength. Through successes and setbacks, I embraced each moment, learning and evolving. Today, I stand as a testament to perseverance, fueled by dreams and driven by purpose, ready to embark on the next chapter of my story."
+       />
+
+    </ScrollView>
+</LinearLayout>
